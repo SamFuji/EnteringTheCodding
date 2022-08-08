@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿//Задача на определение чётного и нечётного числа
+
+Console.Clear();
 
 Console.Write("Enter the number:"); 
 int number = Convert.ToInt32( Console.ReadLine()); 
