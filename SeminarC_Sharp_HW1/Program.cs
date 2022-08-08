@@ -16,6 +16,8 @@
 
 //Второй вариант решения:
 
+
+
 Console.Write("Enter the number1:"); //Консоль пишет:
 int number1 = Convert.ToInt32( Console.ReadLine()); //Консоль считывает введённое число
 Console.Write("Enter the number2:"); //после этого консоль запрашивает второе число
